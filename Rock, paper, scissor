@@ -1,3 +1,5 @@
+Rock, Paper, and Scissor
+
 print ("player 1: enter any one from rock, paper, and scissor")
 p1=str(input())
 print ("player 2: enter any one from rock, paper, and scissor")
