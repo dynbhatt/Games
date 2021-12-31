@@ -1,0 +1,11 @@
+print ("player 1: enter any one from rock, paper, and scissor")
+p1=str(input())
+print ("player 2: enter any one from rock, paper, and scissor")
+p2=str(input())
+
+if p1=="paper" and p2=="rock" or p1=="rock" and p2=="scissor" or p1=="scissor" and p2=="paper":
+    print ("player 1 won")
+elif p2=="paper" and p1=="rock" or p2=="rock" and p1=="scissor" or p2=="scissor" and p1=="paper":
+    print("player 2 won")
+else:
+    print("its a draw. try again")
