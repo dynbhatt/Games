@@ -1,2 +1,2 @@
 # Games
-A python code for different games.
+Python codes for different games.
